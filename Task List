@@ -1,0 +1,15 @@
+Task List
+-[ ] Weighted Ring Detector Program
+-[ ] Line Follower Program
+-[ ] Encoder Movement Methods
+-[ ] Basic H Drive Control TeleOp
+-[ ] Robot Hardware Class
+-[ ] IMU turns
+-[ ] Robot Advoidance with Ultrasonic or CV?
+  -Use Carrot Algorithim
+-[ ] Velocity Based Movement Program
+    -Use data from Voltage Sensor to determine the speed and velocity at the current voltage and negate for the voltage in the setPower()
+        -Use CNN? 
+        -Use External Navigation? 
+ 
+  
